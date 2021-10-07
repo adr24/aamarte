@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "Adrian Avila Molina",
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
-        "title": "Exto",
+        "title": "AAM",
         "has_nav": true,
         "nav_links": [
             {

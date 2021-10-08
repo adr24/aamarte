@@ -19,3 +19,11 @@ module.exports = {
         return config;
     }
 };
+
+/*
+config.plugins.push(new webpack.WatchIgnorePlugin({ paths: [/\/content\//] }));
+
+return config;
+}
+};
+*/
